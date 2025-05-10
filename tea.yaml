@@ -1,0 +1,7 @@
+version: 1
+name: absen-sederhana-tea
+description: Sistem absensi sederhana
+maintainers:
+  - github_username: [bersekerblade]
+    address: [0xb5EdE13dBa6333AfC2858d94Cd0ca28c758e5e35]
+quorum: 1
